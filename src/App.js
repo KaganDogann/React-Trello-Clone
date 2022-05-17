@@ -16,7 +16,6 @@ function App() {
     <div style={myStyle} className="App " >
       <Navi></Navi>
       <Dashboard></Dashboard>
-      <p>adasda</p>
     </div>
   );
 }
