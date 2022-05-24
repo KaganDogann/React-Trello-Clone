@@ -1,8 +1,6 @@
 # Trello-Clone 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
+<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 
 ## Built With
 
