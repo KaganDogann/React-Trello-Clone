@@ -14,7 +14,7 @@
 ## Overview
 
 - Authenticate user
-<img src="https://raw.githubusercontent.com/KaganDogann/React-Trello-Clone/master/src/gifs/Login%20signout.gif?token=GHSAT0AAAAAABTKCHKXV3QP24EP7TW6EDY4YUMQMYA">
+<img src="https://github.com/KaganDogann/React-Trello-Clone/blob/master/src/gifs/Login%20signout.gif">
 <li> Create new list </li>
 <img src="https://raw.githubusercontent.com/KaganDogann/React-Trello-Clone/master/src/gifs/create%20new%20list.gif?token=GHSAT0AAAAAABTKCHKX4LQWX4ZS5BIUHQ46YUMQNGA">
 <li> Create new card </li>
