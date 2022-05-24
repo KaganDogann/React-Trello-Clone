@@ -1,6 +1,6 @@
 # Trello-Clone 
 
-<a href="https://master--trello-clone-kd.netlify.app">Visit W3Schools.com!</a>
+<a href="https://master--trello-clone-kd.netlify.app">You can visit demo here</a>
 
 ## Built With
 
