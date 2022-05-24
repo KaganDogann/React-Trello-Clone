@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Authenticate user
 <img src="https://raw.githubusercontent.com/KaganDogann/React-Trello-Clone/master/src/gifs/Login%20signout.gif?token=GHSAT0AAAAAABTKCHKXV3QP24EP7TW6EDY4YUMQMYA">
-- Create new list
+<li> Create new list </li>
 <img src="https://raw.githubusercontent.com/KaganDogann/React-Trello-Clone/master/src/gifs/create%20new%20list.gif?token=GHSAT0AAAAAABTKCHKX4LQWX4ZS5BIUHQ46YUMQNGA">
 - Create new card
 <img src="https://raw.githubusercontent.com/KaganDogann/React-Trello-Clone/master/src/gifs/create%20new%20card.gif?token=GHSAT0AAAAAABTKCHKXXKA5J27LW4MDGOPMYUMQHNA">
