@@ -30,4 +30,6 @@
 <li>  Delete lists and cards </li>
 <img src="https://github.com/KaganDogann/React-Trello-Clone/blob/master/src/gifs/delete%20alll.gif">
 
-
+<br>
+<br>
+Thanks Hüseyin Bera Bulut
